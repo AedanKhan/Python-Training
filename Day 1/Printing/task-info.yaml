@@ -6,6 +6,15 @@ files:
   - name: solution.py
     visible: true
     learner_created: false
+  - name: PrintingPractice(1).py
+    visible: true
+    learner_created: true
+  - name: StringManipulation(2).py
+    visible: true
+    learner_created: true
+  - name: Inputs(3).py
+    visible: true
+    learner_created: true
 status: Solved
 record: -1
 post_submission_on_open: true
